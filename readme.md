@@ -1,4 +1,4 @@
-# Exercício em C++
+# Exercícios em C++
 
 Exercícios dos conteúdos passados durante a disciplina de Programação de Computadores - ADS - IFRN
 
