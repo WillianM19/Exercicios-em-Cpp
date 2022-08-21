@@ -30,4 +30,5 @@ int main(){
     for (int i = 0; i <= 10; i++){
         cout << num << " x " << i << " = " << num * i << "\n";
     }
+    return 0;
 }

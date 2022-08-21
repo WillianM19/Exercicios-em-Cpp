@@ -7,4 +7,5 @@ int main(){
     cin >> fahrenheit;
     celsius = ((fahrenheit - 32) * 5) / 9; //converte a temperatura para celsius
     cout << "\nA temperatura convertida para Celsius é: " << celsius << "\n";
+    return 0;
 }

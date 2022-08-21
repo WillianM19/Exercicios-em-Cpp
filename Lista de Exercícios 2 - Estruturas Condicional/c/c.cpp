@@ -20,4 +20,5 @@ int main(){
     } else {
         cout << "Reprovado!\n";
     }
+    return 0;
 }

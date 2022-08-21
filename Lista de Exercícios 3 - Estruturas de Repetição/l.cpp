@@ -22,4 +22,5 @@ int main(){
     }
     cout << "----------------------------------------------\n";
     cout << "Somatório dos fatoriais: " << total << "\n";
+    return 0;
 }

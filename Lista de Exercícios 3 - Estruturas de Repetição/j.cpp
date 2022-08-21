@@ -14,4 +14,5 @@ int main(){
         F = (C * 1.8) + 32; //calculo de conversão
         cout << "Fahrenheit: " << F << "\n\n";
     }
+    return 0;
 }

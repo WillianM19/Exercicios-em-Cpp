@@ -12,4 +12,5 @@ int main(){
     salarioTotal = salario + (salario * (reajuste / 100)); //calculo de reajuste
 
     cout << "O salário com reajuste é: " << salarioTotal << "\n";
+    return 0;
 }

@@ -22,4 +22,5 @@ int main(){
     }
     cout << "\n-----------------------\n";
     cout << "Total é " << total << "\n";
+    return 0;
 }

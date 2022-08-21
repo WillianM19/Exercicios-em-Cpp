@@ -23,4 +23,5 @@ int main(){
 
     cout << "-----------------------------------\n";
     cout << "O salário final do funcionário é : " << salarioFinal << "\n";
+    return 0;
 }

@@ -25,4 +25,5 @@ int main(){
     cout << "-----------------------------\n";
     cout << "Resultado: " << total << "\n";
     cout << "Resto da divisão: " << resto << "\n";
+    return 0;
 }

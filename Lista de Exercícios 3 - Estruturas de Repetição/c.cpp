@@ -14,5 +14,5 @@ int main(){
             cout << i << " = " << total << ".\n";
         }
     }
-
+    return 0;
 }

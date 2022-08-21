@@ -13,4 +13,5 @@ int main(){
     dias += (anos * 365) + (meses * 30);
 
     cout << "A idade em dias é: " << dias << "\n";
+    return 0;
 }

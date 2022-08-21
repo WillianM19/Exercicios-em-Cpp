@@ -11,4 +11,5 @@ int main(){
     } else {
         cout << num << " é ímpar!" << "\n";
     }
+    return 0;
 }

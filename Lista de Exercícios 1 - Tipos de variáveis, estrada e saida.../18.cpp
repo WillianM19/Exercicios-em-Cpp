@@ -13,4 +13,5 @@ int main(){
     cout << "Antecessor: " << antecessor << "\n";
     cout << "Sucessor: " << sucessor << "\n\n";
     cout << "..." << antecessor << ", " << numero << ", " << sucessor << "..." << "\n";
+    return 0;
 }

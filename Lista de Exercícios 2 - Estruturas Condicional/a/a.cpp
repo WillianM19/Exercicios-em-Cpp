@@ -22,4 +22,5 @@ int main(){
     };
     cout << "----------------------------------\n";
     cout << "A diferença é " << diferenca << "\n";
+    return 0;
 }

@@ -21,4 +21,5 @@ int main(){
     vMedia = vSoma / vItems; //calcula a média dos items
     cout << "-------------------------------------------------------------\n";
     cout << "Média: " << vMedia << "\n";
+    return 0;
 }

@@ -9,4 +9,5 @@ int main(){
     cin >> altura;
     area = base * altura; // Calcula a área
     cout << "\nA área do retangulo é: " << area << "\n";
+    return 0;
 }

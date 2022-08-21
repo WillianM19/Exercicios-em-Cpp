@@ -11,4 +11,5 @@ int main(){
     if (total > 30) {
         cout << "O resultado é " << total << "\n";
     }
+    return 0;
 }

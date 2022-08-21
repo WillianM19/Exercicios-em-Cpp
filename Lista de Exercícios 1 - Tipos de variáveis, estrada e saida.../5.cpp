@@ -11,4 +11,5 @@ int main(){
     volume = (4 / 3) * 3.14159 * pow(raio, 3); // caucular volume da esféra
 
     cout << "O valor do raio da esfera é: " << volume << "\n";
+    return 0;
 }

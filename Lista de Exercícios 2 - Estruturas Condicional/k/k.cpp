@@ -11,4 +11,5 @@ int main(){
     } else {
         cout << "O valor está fora da faixa permitida\n";
     }
+    return 0;
 }

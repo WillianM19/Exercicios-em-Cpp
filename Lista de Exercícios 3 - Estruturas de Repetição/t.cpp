@@ -13,4 +13,5 @@ int main(){
             cout << i * i << '.' << "\n";
         }
     }
+    return 0;
 }

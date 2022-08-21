@@ -15,4 +15,5 @@ int main(){
 
     cout << "---------------------------\n";
     cout << "A media do aluno é: " << media << "\n";
+    return 0;
 }

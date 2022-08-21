@@ -37,4 +37,5 @@ int main(){
     cout << "----------------------------------\n";
     cout << "A residência tem área total de " << areaTotal << " metros." << "\n";
     cout << "cômodos inserídos: " << comodos << "\n";
+    return 0;
 }

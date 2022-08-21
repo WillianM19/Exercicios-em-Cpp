@@ -15,4 +15,5 @@ int main(){
     } else {
         cout << "Sexo informado inválido\n";
     }
+    return 0;
 }

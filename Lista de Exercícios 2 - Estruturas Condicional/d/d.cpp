@@ -29,4 +29,5 @@ int main(){
         }
         cout << "Media: " << MD2 << "\n";
     }
+    return 0;
 }

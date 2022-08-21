@@ -25,4 +25,5 @@ int main(){
     } else {
         cout << "Valor inserido inválido!";
     }
+    return 0;
 }

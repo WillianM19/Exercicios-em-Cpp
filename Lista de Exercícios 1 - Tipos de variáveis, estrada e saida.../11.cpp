@@ -12,4 +12,5 @@ int main(){
     custoFinal = custoFrabrica + ((custoFrabrica * pImpostos)+(custoFrabrica * pDistribuidor)); //calculo
 
     cout << "O custo final é " << custoFinal << "\n";
+    return 0;
 }

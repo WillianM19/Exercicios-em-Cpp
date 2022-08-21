@@ -35,4 +35,5 @@ int main(){
         cout << "Há apenas uma solução real\n";
         cout << result1 << "\n";
     }
+    return 0;
 }

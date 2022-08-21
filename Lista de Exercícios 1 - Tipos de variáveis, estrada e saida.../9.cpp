@@ -16,4 +16,5 @@ int main(){
     cout << "Total de votos brancos: " << (votosBrancos / totalEleitores) * 100 << "%\n";
     cout << "Total de votos nulos: " << (votosNulos / totalEleitores) * 100 << "%\n";
     cout << "Total de votos válidos: " << (votos / totalEleitores) * 100 << "%\n";
+    return 0;
 }

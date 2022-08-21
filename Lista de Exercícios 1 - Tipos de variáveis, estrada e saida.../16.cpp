@@ -10,4 +10,5 @@ int main(){
     metros = pes * peMetro; //calculo
 
     cout << "O valor convertido em metros é: " << metros << "\n";
+    return 0;
 }

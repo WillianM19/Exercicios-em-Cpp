@@ -31,4 +31,5 @@ int main(){
         
         aux = 1; //reseta auxiliar
     }
+    return 0;
 }

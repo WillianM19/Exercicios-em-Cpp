@@ -16,4 +16,5 @@ int main(){
     cout << "------------------------\n";
     cout << "Somatório: " << soma << "\n";
     cout << "Média: " << media << "\n";
+    return 0;
 }

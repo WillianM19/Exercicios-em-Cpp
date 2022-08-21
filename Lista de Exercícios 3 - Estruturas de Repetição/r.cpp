@@ -26,4 +26,5 @@ int main(){
     cout << "Maior valor: " << vMaior << "\n";
     cout << "Menor valor (Positivo): " << vMenor << "\n";
     cout << "Menor valor (Negativo): " << valor << "\n";
+    return 0;
 }

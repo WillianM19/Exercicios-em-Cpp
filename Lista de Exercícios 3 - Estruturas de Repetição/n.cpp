@@ -21,5 +21,5 @@ int main(){
     cout << "Somatório: " << vSoma << "\n";
     cout << "Média: " << vMedia << "\n";
     cout << "Total de valores lidos: " << vLidos << "\n";
-
+    return 0;
 }

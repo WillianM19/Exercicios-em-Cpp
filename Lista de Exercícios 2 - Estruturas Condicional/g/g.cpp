@@ -24,4 +24,5 @@ int main(){
     if(D % 2 == 0 && D % 3 == 0){
         cout << D << " é divisível por 2 e 3\n";
     }
+    return 0;
 }

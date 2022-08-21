@@ -15,4 +15,5 @@ int main(){
     if (total >= 100){
         cout << "O total é " << total << "\n";
     }
+    return 0;
 }

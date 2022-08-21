@@ -17,4 +17,5 @@ int main(){
     cout << "\nA divisão é " << divisao;
     cout << "\nA subtração é " << subtracao;
     cout << "\nA multiplicação é " << multiplicacao << "\n";
+    return 0;
 }

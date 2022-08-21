@@ -6,4 +6,5 @@ int main(){
     cout << "Digite o valor: ";
     cin >> valor;
     cout << "O antecessor do valor digitado é: " << valor - 1 << "\n";
+    return 0;
 }

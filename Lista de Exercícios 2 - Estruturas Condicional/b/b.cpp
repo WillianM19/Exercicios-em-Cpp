@@ -12,4 +12,5 @@ int main(){
     }
     
     cout << "O valor positivo é: " << n << "\n";
+    return 0;
 }

@@ -8,4 +8,5 @@ int main(){
     if (!(num > 3)){   
         cout << num << "\n";
     }
+    return 0;
 }

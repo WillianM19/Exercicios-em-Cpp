@@ -13,4 +13,5 @@ int main(){
     volumeTotal = comprimento * altura * largura; //calcular volume da caixa
 
     cout << "O volume total da caixa é: " << volumeTotal << "\n";
+    return 0;
 }

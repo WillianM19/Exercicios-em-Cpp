@@ -11,4 +11,5 @@ int main(){
     velocidade = (distancia * 1000) / (tempo * 60); //calculo
 
     cout << "\nA velocidade é " << velocidade << " metros por segundo." << "\n";
+    return 0;
 }

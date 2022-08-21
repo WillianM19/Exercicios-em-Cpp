@@ -41,4 +41,5 @@ int main(){
     }
 
     cout << menor << ", " << mediano << ", " << maior << "\n";
+    return 0;
 }

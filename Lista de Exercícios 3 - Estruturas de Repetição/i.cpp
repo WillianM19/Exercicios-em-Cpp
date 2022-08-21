@@ -23,4 +23,5 @@ int main(){
         fn1 = fn2;
         fn2 = fn;
     }
+    return 0;
 }
