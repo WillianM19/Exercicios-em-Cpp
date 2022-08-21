@@ -1,4 +1,4 @@
-# Lista de Exercícios 1
+# Lista de Exercícios 1 - Tipos de variáveis, estrada e saida...
 
 ## Questões
 
