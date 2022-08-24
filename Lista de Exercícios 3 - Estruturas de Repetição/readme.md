@@ -36,6 +36,12 @@
 
 [r)  Elaborar um programa que leia valores positivos inteiros até que um valor negativo seja informado. Ao final devem ser apresentados o maior e o menor valores informados pelo usuário.](r.cpp)
 
-[s)  Elaborar  um  programa  que  apresente  o  resultado  inteiro  da  divisão  de  dois  números quaisquer, representando o dividendo e o divisor da divisão a ser processada. Sugestão: para  a  elaboração  do  programa,  não  utilize  o  operador  aritmético  de  divisão  com quociente  inteiro  div.  Use  uma  solução  baseada  em  laço.  O  programa  deve  apresentar como resultado (quociente) quantas vezes o divisor cabe no dividendo.](s.cpp) 
+[s)  Elaborar  um  programa  que  apresente  o  resultado  inteiro  da  divisão  de  dois  números quaisquer, representando o dividendo e o divisor da divisão a ser processada. Sugestão: para  a  elaboração  do  programa,  não  utilize  o  operador  aritmético  de  divisão  com quociente  inteiro  div.  Use  uma  solução  baseada  em  laço.  O  programa  deve  apresentar como resultado (quociente) quantas vezes o divisor cabe no dividendo.](s.cpp)
 
 [t)  Elaborar um programa que apresente os quadrados sem armazená-los na memória dos valores inteiros existentes na faixa de valores de 15 a 200 com saltos de 3 em 3.](t.cpp)
+
+**Extra:**
+
+![](Desafio%20-%20Estruturas%20de%20Repetição/Captura%20de%20Tela%202022-06-01%20às%2013.39.14.png)
+
+[Desafio - Estruturas de Repetição](Desafio%20-%20Estruturas%20de%20Repetição/Desafio%20-%20Willian%20Micael%20de%20Paiva.cpp)
